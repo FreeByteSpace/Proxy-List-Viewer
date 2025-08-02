@@ -23,4 +23,4 @@ E-mail: figaro.tam.figaro.sdes@gmail.com
 
 Youtube: https://www.youtube.com/watch?v=hUl8dcgiagk
 
-https://github.com/FreeByteSpace/Clipboard-List-Maker/releases/download/clm1.0.1/ProxyListViewer_1.0.1_SFX.exe
+https://github.com/FreeByteSpace/Proxy-List-Viewer/releases/download/plv1.0.1/ProxyListViewer_1.0.1_SFX.exe
