@@ -1,7 +1,7 @@
 # Proxy-List-Viewer
 Free proxy scanner. Download, check, filter and use of found proxy addresses. Download proxy addresses to the program via the Internet. Download proxy addresses to the program from text files. Search for available - working proxy servers. Filter by date, type, availability, response time and other parameters of proxy servers. Use of the found available - working proxy servers globally in the system, as well as use with an interval on the timer (proxy addresses are changed on the timer from a predefined list of addresses). Use of proxy addresses each in a separate browser. Exporting proxy addresses from the program to text files and Excel files.
 
-Year: 2025 (February)
+Year: 2025 (August)
 
 Name: Proxy List Viewer
 
